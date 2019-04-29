@@ -18,3 +18,4 @@ Shotty uses the configuration file created by the AWS cli, e.g.
 *command* is instances, volumes, or snapshots
 *subcommand* - depends on command
 *project* is optional
+
